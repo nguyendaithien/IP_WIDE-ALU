@@ -13,7 +13,6 @@
             count: "8",
             cname: "OP_A",
             swaccess: "wo",
-            hwext: "false",
             fields: [
                 { bits: "31:0"
                 }
